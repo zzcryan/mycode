@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 11.2.3 -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	<!-- <bean id="w" class="Clothes" /> -->
+	<!-- 11.2.3 -->
+	<!-- 11.2.5 -->
+	<bean id="w" class="Car" />
+	<!-- 11.2.5 -->
+	<!-- 11.2.3 -->
+</beans>
+<!-- 11.2.3 -->
